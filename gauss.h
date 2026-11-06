@@ -1,0 +1,1 @@
+int Gauss(int, double**, double**, int);

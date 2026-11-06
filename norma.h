@@ -1,0 +1,1 @@
+double norm(int, double**, double**);

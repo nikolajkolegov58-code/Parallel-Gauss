@@ -1,0 +1,1 @@
+double f(int, int, int, int);
